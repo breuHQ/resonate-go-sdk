@@ -1,2 +1,3 @@
 # resonatie-go-sdk
-Prototype for https//resonatehq.io 
+
+Prototype for resonate's go sdk.
